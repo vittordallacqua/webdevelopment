@@ -1,1 +1,1 @@
-#### [![My Skills](https://skillicons.dev/icons?i=js,react,html,css)](https://skillicons.dev)
+#### [![My Skills](https://skillicons.dev/icons?i=html,css,js,react)](https://skillicons.dev)
